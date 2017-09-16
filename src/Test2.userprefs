@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Honeycomb.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerHoneycombs.cs" Line="12" Column="9" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LayBombs.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FollowPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Honeycomb.cs" Line="22" Column="3" />
+      <File FileName="Assets/Scripts/Destroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BombPickup.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gun.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Pauser.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Rocket.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BackgroundParallax.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PickupSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BackgroundPropSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Bomb.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MouseHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerHoneycombs.cs" Line="164" Column="2" />
+      <File FileName="Assets/Scripts/PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HealthPickup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
